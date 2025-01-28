@@ -96,9 +96,8 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 ## İletişim
 
-Proje Sahibi - [@GithubKullaniciAdi](https://github.com/kullaniciadi)
+Proje Sahibi - 1remcayir
 
-Proje Linki: [https://github.com/kullaniciadi/subdomain-scanner](https://github.com/kullaniciadi/subdomain-scanner)
 
 ## Teşekkürler
 
