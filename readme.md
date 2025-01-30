@@ -107,3 +107,10 @@ Proje Sahibi - 1remcayir
 ## Güvenlik
 
 Bu aracı yalnızca izin verilen sistemlerde ve yasal amaçlar için kullanın. Yetkisiz sistem taramaları yasal sonuçlar doğurabilir.
+
+## Proje Videosu
+
+
+
+https://github.com/user-attachments/assets/df4da7fa-69aa-4fc5-97a4-686f201d1127
+
